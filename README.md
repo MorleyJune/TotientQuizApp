@@ -11,3 +11,5 @@ By using this application TotientQuiz.exe , you can calculate participants' poin
   
 ** Attention! **  
 Don't delete or move named "img" directory , or it doesn't work.  
+  
+Good luck to Quiz Group of the Medical Department in Yamagata University :D  
