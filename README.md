@@ -1,16 +1,17 @@
 # TotientQuizApp  
   
-This is a Quiz Windows Application for Totient Quiz that rules  "participants get Totient Function Point", which is equals to φ(n).  
-This application is written in Japanese. So sorry for other countries.  
+##アプリの説明  
+トーシェントクイズというクイズの得点換算をしやすくすることを目的としたアプリです。  
+Windows フォームを使って作成しました。元コードの言語はC#であります。  
   
-By using this application TotientQuiz.exe , you can calculate participants' points and rank.  
+##クイズの概要  
+トーシェントクイズは、現在の問題数をnとして正解or不正解した者にφ(n)点を加点or減点するクイズです。  
+通常は30問目からスタートするらしいです。一応1問目からスタートするようにしてありますが、書き換えても問題ないです。  
   
-** Rules **  
-*Number of Problem is up to 100.  
-*Rank marks are prepared for Top 3 players.  
+##オプション  
+順位システムを導入しており、上位3人まで冠マークが表示されます。  
   
-** Attention! **  
-Don't delete or move named "img" directory , or it doesn't work.  
-  
-Good luck to Quiz Group of the Medical Department in Yamagata University :D  
-If other Quiz Groups use this app, Thank you very much for using, and enjoy Totient Quiz!   
+##目的  
+山形大学医学部クイズ研究会の支援用アプリとして開発しています。  
+もし、他のクイズ研究会でお使いいただけるならば、こちらとしても幸いです。  
+トーシェントクイズを楽しまれることをお祈りします。  
