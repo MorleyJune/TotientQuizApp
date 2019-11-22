@@ -1,0 +1,7 @@
+C:\Users\JunMorishita\source\repos\TotQuiz\TotQuiz\bin\x64\Release\TotQuiz.exe.config
+C:\Users\JunMorishita\source\repos\TotQuiz\TotQuiz\bin\x64\Release\TotQuiz.exe
+C:\Users\JunMorishita\source\repos\TotQuiz\TotQuiz\obj\x64\Release\TotQuiz.csprojAssemblyReference.cache
+C:\Users\JunMorishita\source\repos\TotQuiz\TotQuiz\obj\x64\Release\TotQuiz.Properties.Resources.resources
+C:\Users\JunMorishita\source\repos\TotQuiz\TotQuiz\obj\x64\Release\TotQuiz.TotientQuiz.resources
+C:\Users\JunMorishita\source\repos\TotQuiz\TotQuiz\obj\x64\Release\TotQuiz.csproj.GenerateResource.cache
+C:\Users\JunMorishita\source\repos\TotQuiz\TotQuiz\obj\x64\Release\TotQuiz.exe
