@@ -27,7 +27,7 @@ TotientQuiz/bin/Release内のTotientQuiz.exeを実行するとお使いいただ
 ソースコードも残してあるので「このUI or コード **クソ** だな」と思った人はぜひ書き換えてください。  
   
 ## イラスト
-王冠のアイコン  
+- 王冠のアイコン  
 Frame-illust様より  
 https://frame-illust.com/  
   
