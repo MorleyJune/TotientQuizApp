@@ -28,7 +28,11 @@ TotientQuiz/bin/Release内のTotientQuiz.exeを実行するとお使いいただ
   
 ## イラスト
 - 王冠のアイコン  
-Frame-illust様より  
+Frame-illust 様より  
 https://frame-illust.com/  
   
 トーシェントクイズを楽しまれることをお祈りします。  
+
+## ライセンス
+GPL ver3.0. 改変・二次配布は自由ですが、配布時はオープンソース化してください。
+また、本ゲームで使用している画像を用いる場合、Frame-illust 様の著作権表示は必ず行なってください。
